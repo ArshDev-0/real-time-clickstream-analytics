@@ -31,6 +31,10 @@ A real-time website traffic analytics dashboard built using Apache Kafka, Python
 ### System Running in VS Code
 ![VS Code](Screenshots/system-running.png)
 
+### Kafka Running with Docker
+
+![Docker Kafka](Screenshots/docker-kafka.png)
+
 ---
 
 ## Project Structure
